@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "J8MCAB4KLB.com.alexshapin.LookApp",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
